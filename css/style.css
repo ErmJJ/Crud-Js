@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+.title-header {
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+}
+
+body {
+    background: rgb(26, 41, 70);
+}
+
+#Actualizar {
+    display: none;
+}
+
+#crudTable {
+    border-radius: 10px;
+    /* Redondear los bordes externos de la tabla */
+    overflow: hidden;
+    /* Evitar que el contenido sobresalga */
+    border-collapse: separate;
+    /* Cambiar de colapso a separado para permitir bordes redondeados */
+    border-spacing: 0;
+    /* Eliminar el espacio entre las celdas */
+    border-color: rgb(26, 41, 70) var(--bs-table-border-color);
+    /* Color del borde de la tabla */
+}
