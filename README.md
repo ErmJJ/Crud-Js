@@ -56,7 +56,7 @@ Agrega una imagen si deseas mostrar cómo luce el CRUD:
 
 ```html
 <!-- Puedes subir una imagen en tu repositorio y referenciarla -->
-<img src="screenshot.png" alt="Vista del CRUD" width="600"/>
+<img src="assets/screenshot.png" alt="Vista del CRUD" width="600"/>
 ```
 
 ## 🛠️ Mejoras Futuras
