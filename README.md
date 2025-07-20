@@ -30,12 +30,12 @@ git clone https://github.com/tu_usuario/nombre_repositorio.git
 
 ```
 📁 CRUD-JavaScript/
-├── index.html           # Interfaz de usuario (formulario + tabla)
+├── index.html     # Interfaz de usuario (formulario + tabla)
 ├── 📁 js/
-│   └── script.js        # Lógica de validación y manejo de datos
+│   └── script.js  # Lógica de validación y manejo de datos
 ├── 📁 css/
-│   └── style.css        # (Opcional) Estilos para mejorar la apariencia
-└── README.md            # Documentación del proyecto
+│   └── style.css  # (Opcional) Estilos para mejorar la apariencia
+└── README.md      # Documentación del proyecto
 ```
 
 ## 🔒 Validaciones Incluidas
