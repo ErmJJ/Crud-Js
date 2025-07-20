@@ -50,10 +50,7 @@ git clone https://github.com/tu_usuario/nombre_repositorio.git
 - **CSS3** – (Opcional) Para mejorar el diseño visual.
 - **JavaScript** – Para la lógica y almacenamiento local.
 
-## 🖼️ Captura de Pantalla (Opcional)
-
-Agrega una imagen si deseas mostrar cómo luce el CRUD:
-
+## 🖼️ Captura de Pantalla
 
 <img src="assets/screenshot.png" alt="Vista del CRUD" width="600"/>
 
