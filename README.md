@@ -26,8 +26,6 @@ git clone https://github.com/tu_usuario/nombre_repositorio.git
 
 ## 📂 Estructura del Proyecto
 
-## 📂 Estructura del Proyecto
-
 ```
 📁 CRUD-JavaScript/
 ├── index.html     # Interfaz de usuario (formulario + tabla)
@@ -54,13 +52,6 @@ git clone https://github.com/tu_usuario/nombre_repositorio.git
 
 <img src="assets/screenshot.png" alt="Vista del CRUD" width="600"/>
 
-
-## 🛠️ Mejoras Futuras
-
-- Validaciones más robustas (regex para email)
-- Uso de librerías modernas (como SweetAlert2 para alertas)
-- Uso de módulos o frameworks como React o Vue
-- Exportar datos a CSV/JSON
 
 ## 📄 Licencia
 
