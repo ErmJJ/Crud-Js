@@ -54,10 +54,9 @@ git clone https://github.com/tu_usuario/nombre_repositorio.git
 
 Agrega una imagen si deseas mostrar cómo luce el CRUD:
 
-```html
-<!-- Puedes subir una imagen en tu repositorio y referenciarla -->
+
 <img src="assets/screenshot.png" alt="Vista del CRUD" width="600"/>
-```
+
 
 ## 🛠️ Mejoras Futuras
 
