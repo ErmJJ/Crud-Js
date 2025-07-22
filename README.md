@@ -59,4 +59,5 @@ Este proyecto es de uso libre con fines educativos. Puedes adaptarlo y reutiliza
 
 ---
 
-### Desarrollado por Julián Hernández 💻
+### 💻 Desarrollado por:
+- Julián Hernández 
